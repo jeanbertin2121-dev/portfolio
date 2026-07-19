@@ -1,0 +1,100 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "skills": "Compétences",
+    "contact": "Contact",
+    "contactButton": "Me contacter"
+  },
+  "hero": {
+    "availability": "Disponible pour de nouvelles opportunités",
+    "introduction": "Bienvenue dans mon univers numérique",
+    "name": "Jean Bertin Kiomba",
+    "profession": "Développeur & Entrepreneur",
+    "description": "Étudiant en informatique, développeur web et créateur de solutions numériques. Je transforme des idées en expériences modernes, utiles et accessibles.",
+    "projectsButton": "Découvrir mes projets",
+    "contactButton": "Parlons ensemble",
+    "followMe": "Me suivre",
+    "profileLabel": "Profil personnel",
+    "tagDeveloper": "Développeur web",
+    "tagEntrepreneur": "Entrepreneur",
+    "tagCreator": "Créateur numérique",
+    "floatingCardOneTitle": "Développement",
+    "floatingCardOneText": "Solutions web modernes",
+    "floatingCardTwoTitle": "Innovation",
+    "floatingCardTwoText": "Idées orientées vers l'avenir",
+    "scrollText": "Découvrir"
+  },
+  "about": {
+    "label": "Qui suis-je ?",
+    "title": "À propos de moi",
+    "lead": "Je conçois des projets numériques qui réunissent technologie, créativité et entrepreneuriat.",
+    "descriptionOne": "Je suis étudiant en informatique et passionné par le développement web, l'intelligence artificielle, l'e-commerce et la création de solutions numériques adaptées aux besoins réels.",
+    "descriptionTwo": "Mon objectif est de développer des expériences simples, modernes et utiles tout en continuant à apprendre et à explorer de nouvelles technologies.",
+    "contactLink": "Discuter avec moi",
+    "cardOneTitle": "Développement web",
+    "cardOneText": "Création d'interfaces modernes, responsives et adaptées aux différents écrans.",
+    "cardTwoTitle": "Entrepreneuriat",
+    "cardTwoText": "Développement d'idées et de projets numériques avec une vision orientée vers le marché.",
+    "cardThreeTitle": "E-commerce",
+    "cardThreeText": "Création et gestion d'expériences commerciales numériques centrées sur les clients.",
+    "cardFourTitle": "Innovation",
+    "cardFourText": "Exploration de nouvelles solutions utilisant le numérique, l'automatisation et l'intelligence artificielle."
+  },
+  "projects": {
+    "label": "Mon univers",
+    "title": "Projets et activités",
+    "description": "Une sélection de projets et d'activités numériques sur lesquels je travaille, présentés volontairement sans révéler leurs détails internes.",
+    "sellifyCategory": "Gestion commerciale",
+    "developmentStatus": "En développement",
+    "sellifyDescription": "Une solution numérique pensée pour simplifier et moderniser la gestion commerciale.",
+    "invityCategory": "Expérience numérique",
+    "invityDescription": "Un projet numérique conçu autour de la connexion, du partage et de l'expérience utilisateur.",
+    "confidential": "Détails confidentiels",
+    "storesLabel": "E-commerce",
+    "storesTitle": "Quelques-unes de mes boutiques",
+    "storesDescription": "Découvrez une sélection de boutiques et d'activités commerciales accessibles directement en ligne.",
+    "storeOneName": "Boutique 01",
+    "storeOneDescription": "Une boutique en ligne proposant une sélection de produits destinés au marché local.",
+    "storeTwoName": "Boutique 02",
+    "storeTwoDescription": "Une expérience e-commerce moderne centrée sur la simplicité et l'accessibilité.",
+    "storeThreeName": "Boutique 03",
+    "storeThreeDescription": "Une activité commerciale numérique orientée vers les besoins des clients.",
+    "visitStore": "Visiter la boutique"
+  },
+  "skills": {
+    "label": "Ce que je fais",
+    "title": "Compétences et domaines",
+    "description": "Des compétences que je développe à travers mes études, mes projets personnels et mes activités entrepreneuriales.",
+    "webDevelopmentTitle": "Développement web",
+    "webDevelopmentText": "Création de sites et d'applications web modernes, responsives et faciles à utiliser.",
+    "aiTitle": "Intelligence artificielle",
+    "aiText": "Exploration des outils d'intelligence artificielle et de leur intégration dans des projets numériques.",
+    "ecommerceTitle": "E-commerce",
+    "ecommerceText": "Création de boutiques en ligne, gestion des produits et amélioration de l'expérience client.",
+    "designTitle": "Design d'interfaces",
+    "designText": "Conception d'interfaces modernes, cohérentes et adaptées aux utilisateurs.",
+    "projectManagementTitle": "Gestion de projets",
+    "projectManagementText": "Organisation, planification et suivi des différentes étapes d'un projet numérique.",
+    "digitalBusinessTitle": "Business numérique",
+    "digitalBusinessText": "Transformation d'idées en solutions numériques pouvant créer de la valeur."
+  },
+  "vision": {
+    "label": "Ma vision",
+    "quote": "Créer des solutions numériques simples aujourd'hui pour répondre aux besoins de demain.",
+    "description": "Je crois que la technologie doit rester accessible, utile et centrée sur l'humain. Chaque projet représente une occasion d'apprendre, d'innover et de construire quelque chose qui apporte une réelle valeur."
+  },
+  "contact": {
+    "label": "Restons connectés",
+    "title": "Vous avez une idée ou une opportunité ?",
+    "description": "Je suis disponible pour discuter de projets, de collaborations, d'entrepreneuriat, de développement web ou de nouvelles opportunités.",
+    "whatsappButton": "Écrire sur WhatsApp",
+    "emailButton": "Envoyer un e-mail"
+  },
+  "footer": {
+    "description": "Développeur web, étudiant en informatique et créateur de solutions numériques.",
+    "rights": "Tous droits réservés.",
+    "backToTop": "Retour en haut"
+  }
+}

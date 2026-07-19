@@ -1,0 +1,100 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact",
+    "contactButton": "Contact me"
+  },
+  "hero": {
+    "availability": "Available for new opportunities",
+    "introduction": "Welcome to my digital world",
+    "name": "Jean Bertin Kiomba",
+    "profession": "Developer & Entrepreneur",
+    "description": "Computer science student, web developer and digital solution creator. I transform ideas into modern, useful and accessible experiences.",
+    "projectsButton": "Discover my projects",
+    "contactButton": "Let's talk",
+    "followMe": "Follow me",
+    "profileLabel": "Personal profile",
+    "tagDeveloper": "Web developer",
+    "tagEntrepreneur": "Entrepreneur",
+    "tagCreator": "Digital creator",
+    "floatingCardOneTitle": "Development",
+    "floatingCardOneText": "Modern web solutions",
+    "floatingCardTwoTitle": "Innovation",
+    "floatingCardTwoText": "Ideas focused on the future",
+    "scrollText": "Discover"
+  },
+  "about": {
+    "label": "Who am I?",
+    "title": "About me",
+    "lead": "I design digital projects that combine technology, creativity and entrepreneurship.",
+    "descriptionOne": "I am a computer science student passionate about web development, artificial intelligence, e-commerce and the creation of digital solutions adapted to real needs.",
+    "descriptionTwo": "My goal is to develop simple, modern and useful experiences while continuing to learn and explore new technologies.",
+    "contactLink": "Talk with me",
+    "cardOneTitle": "Web development",
+    "cardOneText": "Creation of modern and responsive interfaces adapted to different screen sizes.",
+    "cardTwoTitle": "Entrepreneurship",
+    "cardTwoText": "Development of digital ideas and projects with a market-oriented vision.",
+    "cardThreeTitle": "E-commerce",
+    "cardThreeText": "Creation and management of digital commercial experiences focused on customers.",
+    "cardFourTitle": "Innovation",
+    "cardFourText": "Exploration of new solutions using digital technology, automation and artificial intelligence."
+  },
+  "projects": {
+    "label": "My universe",
+    "title": "Projects and activities",
+    "description": "A selection of digital projects and activities I am working on, presented without revealing their internal details.",
+    "sellifyCategory": "Business management",
+    "developmentStatus": "In development",
+    "sellifyDescription": "A digital solution designed to simplify and modernize business management.",
+    "invityCategory": "Digital experience",
+    "invityDescription": "A digital project designed around connection, sharing and user experience.",
+    "confidential": "Confidential details",
+    "storesLabel": "E-commerce",
+    "storesTitle": "Some of my online stores",
+    "storesDescription": "Discover a selection of stores and commercial activities available directly online.",
+    "storeOneName": "Store 01",
+    "storeOneDescription": "An online store offering a selection of products for the local market.",
+    "storeTwoName": "Store 02",
+    "storeTwoDescription": "A modern e-commerce experience focused on simplicity and accessibility.",
+    "storeThreeName": "Store 03",
+    "storeThreeDescription": "A digital commercial activity focused on customer needs.",
+    "visitStore": "Visit the store"
+  },
+  "skills": {
+    "label": "What I do",
+    "title": "Skills and expertise",
+    "description": "Skills I develop through my studies, personal projects and entrepreneurial activities.",
+    "webDevelopmentTitle": "Web development",
+    "webDevelopmentText": "Creation of modern, responsive and user-friendly websites and web applications.",
+    "aiTitle": "Artificial intelligence",
+    "aiText": "Exploration of artificial intelligence tools and their integration into digital projects.",
+    "ecommerceTitle": "E-commerce",
+    "ecommerceText": "Creation of online stores, product management and improvement of the customer experience.",
+    "designTitle": "Interface design",
+    "designText": "Design of modern, consistent and user-friendly interfaces.",
+    "projectManagementTitle": "Project management",
+    "projectManagementText": "Organization, planning and monitoring of the different stages of a digital project.",
+    "digitalBusinessTitle": "Digital business",
+    "digitalBusinessText": "Transformation of ideas into digital solutions capable of creating value."
+  },
+  "vision": {
+    "label": "My vision",
+    "quote": "Creating simple digital solutions today to meet the needs of tomorrow.",
+    "description": "I believe technology should remain accessible, useful and human-centered. Every project is an opportunity to learn, innovate and build something that provides real value."
+  },
+  "contact": {
+    "label": "Let's stay connected",
+    "title": "Do you have an idea or an opportunity?",
+    "description": "I am available to discuss projects, collaborations, entrepreneurship, web development or new opportunities.",
+    "whatsappButton": "Message me on WhatsApp",
+    "emailButton": "Send an email"
+  },
+  "footer": {
+    "description": "Web developer, computer science student and creator of digital solutions.",
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "navigation": {
+    "home": "首页",
+    "about": "关于我",
+    "projects": "项目",
+    "skills": "技能",
+    "contact": "联系",
+    "contactButton": "联系我"
+  },
+  "hero": {
+    "availability": "欢迎新的合作与发展机会",
+    "introduction": "欢迎来到我的数字世界",
+    "name": "Jean Bertin Kiomba",
+    "profession": "开发者与创业者",
+    "description": "计算机专业学生、网页开发者和数字解决方案创作者。我致力于将创意转化为现代、实用且易于使用的数字体验。",
+    "projectsButton": "查看我的项目",
+    "contactButton": "与我交流",
+    "followMe": "关注我",
+    "profileLabel": "个人简介",
+    "tagDeveloper": "网页开发者",
+    "tagEntrepreneur": "创业者",
+    "tagCreator": "数字创作者",
+    "floatingCardOneTitle": "开发",
+    "floatingCardOneText": "现代网页解决方案",
+    "floatingCardTwoTitle": "创新",
+    "floatingCardTwoText": "面向未来的创意",
+    "scrollText": "了解更多"
+  },
+  "about": {
+    "label": "我是谁？",
+    "title": "关于我",
+    "lead": "我设计融合技术、创意与创业精神的数字项目。",
+    "descriptionOne": "我是一名计算机专业学生，热爱网页开发、人工智能、电子商务，以及根据实际需求创建数字解决方案。",
+    "descriptionTwo": "我的目标是开发简单、现代且实用的数字体验，同时不断学习和探索新的技术。",
+    "contactLink": "与我交流",
+    "cardOneTitle": "网页开发",
+    "cardOneText": "创建现代、响应式并适配不同屏幕尺寸的网页界面。",
+    "cardTwoTitle": "创业",
+    "cardTwoText": "以市场需求为导向，开发数字创意和项目。",
+    "cardThreeTitle": "电子商务",
+    "cardThreeText": "创建和管理以客户体验为核心的数字商业活动。",
+    "cardFourTitle": "创新",
+    "cardFourText": "探索数字技术、自动化和人工智能带来的新解决方案。"
+  },
+  "projects": {
+    "label": "我的世界",
+    "title": "项目与活动",
+    "description": "这里展示我正在进行的一些数字项目和商业活动，同时保留项目内部的重要信息。",
+    "sellifyCategory": "商业管理",
+    "developmentStatus": "开发中",
+    "sellifyDescription": "一款旨在简化并现代化商业管理的数字解决方案。",
+    "invityCategory": "数字体验",
+    "invityDescription": "一个围绕连接、分享和用户体验设计的数字项目。",
+    "confidential": "项目细节保密",
+    "storesLabel": "电子商务",
+    "storesTitle": "我的部分线上商店",
+    "storesDescription": "浏览我运营或参与的一些线上商店和商业活动。",
+    "storeOneName": "商店 01",
+    "storeOneDescription": "一家面向本地市场并提供精选产品的线上商店。",
+    "storeTwoName": "商店 02",
+    "storeTwoDescription": "一个注重简单、现代和易用性的电子商务平台。",
+    "storeThreeName": "商店 03",
+    "storeThreeDescription": "一项以客户实际需求为核心的数字商业活动。",
+    "visitStore": "访问商店"
+  },
+  "skills": {
+    "label": "我的能力",
+    "title": "技能与领域",
+    "description": "这些技能来自我的学习、个人项目和创业实践。",
+    "webDevelopmentTitle": "网页开发",
+    "webDevelopmentText": "创建现代、响应式且易于使用的网站和网页应用程序。",
+    "aiTitle": "人工智能",
+    "aiText": "探索人工智能工具，并将其应用到不同的数字项目中。",
+    "ecommerceTitle": "电子商务",
+    "ecommerceText": "创建线上商店、管理产品并改善客户体验。",
+    "designTitle": "界面设计",
+    "designText": "设计现代、一致且适合用户使用的数字界面。",
+    "projectManagementTitle": "项目管理",
+    "projectManagementText": "组织、规划并跟踪数字项目的不同实施阶段。",
+    "digitalBusinessTitle": "数字商业",
+    "digitalBusinessText": "将创意转化为能够创造实际价值的数字解决方案。"
+  },
+  "vision": {
+    "label": "我的愿景",
+    "quote": "今天创造简单的数字解决方案，满足明天的需求。",
+    "description": "我相信技术应该保持易用、实用并以人为中心。每一个项目都是学习、创新和创造实际价值的机会。"
+  },
+  "contact": {
+    "label": "保持联系",
+    "title": "你有创意或合作机会吗？",
+    "description": "欢迎与我讨论项目、合作、创业、网页开发或其他新的发展机会。",
+    "whatsappButton": "通过 WhatsApp 联系",
+    "emailButton": "发送电子邮件"
+  },
+  "footer": {
+    "description": "网页开发者、计算机专业学生和数字解决方案创作者。",
+    "rights": "版权所有。",
+    "backToTop": "返回顶部"
+  }
+}
